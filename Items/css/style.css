@@ -1,0 +1,77 @@
+body {
+    background-image: url("../images/GroundedTinyBluejay-size_restricted.gif");
+    width: 100%
+}
+
+h1 {
+    font-size: 43px;
+    color:red;
+    border: solid 5px red;
+    background: rgb(4, 4, 61);
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right:10%;
+    padding: 15px;
+    font-family: 'Faster One', cursive;
+}
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 28px;
+    padding-top: 10px;
+    color: red;
+}
+
+
+img {
+    margin: 10px;
+}
+
+
+.sidebar {
+    padding: 5px;
+    position: relative;
+    border-top: solid rgb(235, 35, 35) 2px;
+    border-bottom: solid rgb(4, 4, 61) 2px;
+    margin-bottom: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color: red
+}
+
+span {
+    border: solid red 2px;
+    padding-left: 3px;
+    padding-right:3px;
+    background-color: rgb(4, 4, 61); 
+    font-size: 15px;
+    color: red;
+
+}
+
+.background {
+    background-image: url("../images/WhiteHouse.jpg");
+    border: solid 5px red;
+}
+
+.container {
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5px;
+    text-align: center;
+    border: solid 3px red;
+}
+
+#currentword {
+    font-size: 30px;
+    font-family: 'Press Start 2P', cursive;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#scoreboard {
+    padding: 20px;
+}
