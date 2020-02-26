@@ -1,0 +1,1012 @@
+<!DOCTYPE html>
+<!-- saved from url=(0055)https://www.bensound.com/royalty-free-music/electronica -->
+<html dir="ltr" lang="en"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!--<base href="https://www.bensound.com/">--><base href=".">
+	<!--<base href="http://www.bensound.com/">--><base href=".">
+	
+	<title>Bensound | Royalty Free Music | Electronica</title>	<meta name="description" content="Bensound&#39;s royalty free music: Electronica, Dubstep, House, Techno, Dance.">
+			<meta name="viewport" content="width=1020px">
+		<link href="https://www.bensound.com/image/data/icob2.png" rel="icon">
+		<link rel="stylesheet" href="./impeach_files/mediaelementplayer_cus.min.css">
+	
+
+		
+	<link rel="stylesheet" href="./impeach_files/bendesign.css">
+	<script type="text/javascript" async="" src="./impeach_files/ga.js.download"></script><script type="text/javascript" src="./impeach_files/jquery.min.js.download"></script>
+	<script type="text/javascript" src="./impeach_files/mediaelement-and-player.min.js.download"></script>
+	<script type="text/javascript" src="./impeach_files/main.js.download"></script>
+	
+	
+	<script type="text/javascript" src="./impeach_files/jquery.total-storage.min.js.download"></script>
+
+	
+	
+	
+	<script type="text/javascript" src="./impeach_files/leverod.js.download"></script>
+
+	
+	
+	
+	<script type="text/javascript" src="./impeach_files/adsmartsearch_js.php"></script>
+
+	
+		<script type="text/javascript">
+var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35907795-1']);
+  _gaq.push(['_trackPageview']);
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</head>
+<body>
+
+				
+									
+					
+<div id="superglobal">	<!--start header-->
+	<header>
+		
+		<div id="boite-header">
+				<div id="pocart">
+		<div id="cart" style="display: none;">
+	<a class="cart_dropdown" href="https://www.bensound.com/index.php?route=checkout/cart"><img src="./impeach_files/cart_icon_w.png" alt=""><span id="cart-total">0 item(s) - 0,00€</span></a>
+</div>
+		</div>
+			
+						<script> 
+							$('#cart').hide();
+						</script>
+							
+						<script> 							
+						(function() {
+				    var origaddToCart = addToCart ;
+					    addToCart = function() 
+					    {
+					        var result = origaddToCart.apply(this, arguments);
+					        $('#cart').show();
+					        return result;
+					    };
+						})();
+						
+						$('#cart').live('mouseleave', function() {
+						//alert('cart mouseleave');
+						if($('#cart .content .empty').length)
+							{
+								$('#cart').hide();
+							}
+						}); 
+						</script>
+					
+		
+		<div id="logbox">
+			<ul>
+				<li><a href="https://www.bensound.com/index.php?route=account/account">Create An Account | Sign In</a></li>
+			</ul>
+		</div>
+					<div id="logo-texte"><a href="https://www.bensound.com/"><img title="Bensound" alt="Bensound" src="./impeach_files/logo-hd2.png"></a>
+			</div>
+			<div id="nav">
+				<ul>
+					<li class="focus-couleur"><a href="https://www.bensound.com/royalty-free-music">ROYALTY FREE MUSIC</a></li>
+					<li><a href="https://www.bensound.com/licensing">LICENSing</a></li>
+					<li><a href="https://www.bensound.com/music-subscription-youtube-videos">Subscription</a></li>
+					<li><a href="https://www.bensound.com/help">Faq / Help</a></li>
+					<li><a href="https://www.bensound.com/contact-me">CONTACT</a></li>
+				</ul>
+			</div>
+		</div>			
+		
+				
+				
+	</header>
+        
+	<div id="bloc_body">
+		<div id="contenu">
+			<div class="container">
+			<div class="sixteen columns">
+				<div id="notification"></div>
+			</div>
+		</div><!--end container--><div id="slogan">
+	<div class="trait"></div>
+	<h1>ROYALTY FREE MUSIC by BENSOUND</h1>
+	<div class="trait"></div>
+</div>
+<div class="container">
+	<div class="sixteen columns">
+		<div id="pageName">
+		</div><!--end pageName-->
+	</div>
+</div><!-- container -->
+
+<!-- strat the main content area -->
+<div class="container">
+	
+    
+
+<div id="menu">	
+		        
+                  
+                
+          		            <ul>
+			
+                        <li>
+                            <a href="https://www.bensound.com/royalty-free-music">All</a>
+                          </li>
+                        <li>
+                            <a href="https://www.bensound.com/royalty-free-music/acoustic-folk">Acoustic / Folk</a>
+                          </li>
+                        <li>
+                            <a href="https://www.bensound.com/royalty-free-music/cinematic">Cinematic</a>
+                          </li>
+                        <li>
+                            <a href="https://www.bensound.com/royalty-free-music/corporate-pop">Corporate / Pop</a>
+                          </li>
+                        <li>
+                            <a href="https://www.bensound.com/royalty-free-music/electronica" class="menu_focus">Electronica</a>
+                          </li>
+                        <li>
+                            <a href="https://www.bensound.com/royalty-free-music/funky-groove">Urban / Groove</a>
+                          </li>
+                        <li>
+                            <a href="https://www.bensound.com/royalty-free-music/jazz">Jazz</a>
+                          </li>
+                        <li>
+                            <a href="https://www.bensound.com/royalty-free-music/rock">Rock</a>
+                          </li>
+                        <li>
+                            <a href="https://www.bensound.com/royalty-free-music/world-others">World / Others</a>
+                          </li>
+                      </ul>
+                  
+        </div>	
+  
+	<section id="products_grid" class="sixteen columns">
+		
+		
+		<div class="pagenavi">
+		<div class="links">  <span class="current">&lt;</span>  <b>1</b>  <a class="page" href="https://www.bensound.com/royalty-free-music/electronica/2">2</a>  <a class="page" href="https://www.bensound.com/royalty-free-music/electronica/3">3</a>  <a class="page" href="https://www.bensound.com/royalty-free-music/electronica/4">4</a>  <a class="page" href="https://www.bensound.com/royalty-free-music/electronica/5">5</a>  <a class="current2" href="https://www.bensound.com/royalty-free-music/electronica/2"> <strong>NEXT &gt;</strong></a>  </div>		</div><!--end pagination-->
+			<div class="products_filter">
+				<div class="filter_content clearfix">
+					<div class="pro_sort">
+						
+						<select onchange="location = this.value;" class="default" tabindex="1">
+																					<option value="https://www.bensound.com/royalty-free-music/electronica?sort=p.sort&amp;order=DESC">Popular</option>
+																												<option value="https://www.bensound.com/royalty-free-music/electronica?sort=p.date_added&amp;order=DESC">Newest</option>
+																				</select>
+				
+					</div><!--end sort-->
+
+				</div>
+			</div><!--end product_filter-->
+		
+		<div id="middleHeader">
+                <div id="search" class="top-srch">
+					
+						<label>
+							<input id="top-search-bar" type="search" name="search" placeholder="Search" value="">
+						</label>
+						
+						
+							<div class="submit">
+								<input type="button" id="top-button-search" class="button">
+							</div>
+						
+					</div>
+        </div><!--end form-->
+				<div class="bloc_cat">
+															<div class="bloc_produit1">
+							
+				
+				<div class="img_mini"><a href="https://www.bensound.com/royalty-free-music/track/summer-chill-relaxed-tropical"><img class="minimage" src="./impeach_files/summer.jpg" alt="Summer" title="Summer">
+                    <img class="plusinfo" src="./impeach_files/iconmonstr-info-6-icon.svg">
+                    </a>
+				</div>
+				<div class="boite_bas">
+					<div class="titre"><p>
+					Summer</p><p class="totime">3:37</p>
+					</div>
+					<div>
+						<div class="player">
+							<div class="bouton_play">
+								<div id="mep_0" class="mejs-container svg mejs-audio" style="width: 80px; height: 25px;"><div class="mejs-inner"><div class="mejs-mediaelement"><audio id="player" preload="none" src="/bensound-music/bensound-summer.mp3">		
+								</audio></div><div class="mejs-layers"><div class="mejs-poster mejs-layer" style="display: none; width: 80px; height: 25px;"></div></div><div class="mejs-controls"><div class="mejs-button mejs-playpause-button mejs-play"><button type="button" aria-controls="mep_0" title="Play/Pause" aria-label="Play/Pause"></button></div><div class="mejs-time-rail" style="width: 48px;"><span class="mejs-time-total" style="width: 36px;"><span class="mejs-time-buffering" style="display: none;"></span><span class="mejs-time-loaded"></span><span class="mejs-time-current"></span><span class="mejs-time-handle"></span><span class="mejs-time-float"><span class="mejs-time-float-current">00:00</span><span class="mejs-time-float-corner"></span></span></span></div><div class="mejs-time"><span class="mejs-currenttime">00:00</span></div></div><div class="mejs-clear"></div></div></div>
+							</div>
+							<a href="https://www.bensound.com/royalty-free-music/track/summer-chill-relaxed-tropical"><img class="plusinfo2" src="./impeach_files/iconmonstr-info-6-icon.svg"></a>
+						</div>
+						
+						
+						<div class="bouton_download"><p>
+						<span href="/royalty-free-music/electronica#" rel="popuprel1" class="popup">DOWNLOAD</span></p></div>					</div>	
+					<div class="description">
+					Soft electronic dance royalty free music track. This track has a ...					</div>
+					
+					<div class="popupbox" id="popuprel1">
+						<div id="intabdiv1">
+							<div class="box_haut">
+							</div>
+							<div class="close"><p><b>X</b></p></div>
+																					
+							
+							<div class="pop_license"><h1>FREE Creative Commons License</h1>
+							<p>You can use this music for free in your multimedia project (online videos (Youtube, Facebook,...), websites, animations, etc.) as long as you credit Bensound.com (in the description for a video). <br>For example: Music: <a href="https://www.bensound.com/">https://www.bensound.com</a>
+							</p>
+							<div style="display: inline-block;"><p><span class="nothis">No Audiobook<br></span><span class="nothis">No Audio Podcast</span></p></div>
+			<div style="display: inline-block;"><p><span class="nothis">No Song Making<br></span><span class="nothis">No Music Remix</span></p></div>
+														<a href="https://www.bensound.com/bensound-music/bensound-summer.mp3" class="bouton_pop">Download</a>
+														</div>
+							
+							
+							<a href="https://www.bensound.com/royalty-free-music/track/summer-chill-relaxed-tropical">
+							<div class="pop_pro">
+							<h1>Pro License <span style="color:black;">from 34€</span></h1>
+							<p>If you can't give credits you can buy the Pro License for this track.</p>
+							<ul>
+								<li>Optional Credits</li>
+								<li>High quality Mp3 + Wav</li>
+								<li>License Certificate</li>
+							</ul>
+							<p class="popbuy">PURCHASE</p>
+							</div></a>
+													</div>
+					</div>
+				</div>
+							
+				<div id="fade" style="display: none;">
+				</div>
+				
+				
+												<!--end desc-->
+			</div>
+												<div class="bloc_produit">
+							
+				
+				<div class="img_mini"><a href="https://www.bensound.com/royalty-free-music/track/dreams-chill-out"><img class="minimage" src="./impeach_files/dreams.jpg" alt="Dreams" title="Dreams">
+                    <img class="plusinfo" src="./impeach_files/iconmonstr-info-6-icon.svg">
+                    </a>
+				</div>
+				<div class="boite_bas">
+					<div class="titre"><p>
+					Dreams</p><p class="totime">3:30</p>
+					</div>
+					<div>
+						<div class="player">
+							<div class="bouton_play">
+								<div id="mep_1" class="mejs-container svg mejs-audio" style="width: 80px; height: 25px;"><div class="mejs-inner"><div class="mejs-mediaelement"><audio id="player" preload="none" src="/bensound-music/bensound-dreams.mp3">		
+								</audio></div><div class="mejs-layers"><div class="mejs-poster mejs-layer" style="display: none; width: 80px; height: 25px;"></div></div><div class="mejs-controls"><div class="mejs-button mejs-playpause-button mejs-play"><button type="button" aria-controls="mep_1" title="Play/Pause" aria-label="Play/Pause"></button></div><div class="mejs-time-rail" style="width: 48px;"><span class="mejs-time-total" style="width: 36px;"><span class="mejs-time-buffering" style="display: none;"></span><span class="mejs-time-loaded"></span><span class="mejs-time-current"></span><span class="mejs-time-handle"></span><span class="mejs-time-float"><span class="mejs-time-float-current">00:00</span><span class="mejs-time-float-corner"></span></span></span></div><div class="mejs-time"><span class="mejs-currenttime">00:00</span></div></div><div class="mejs-clear"></div></div></div>
+							</div>
+							<a href="https://www.bensound.com/royalty-free-music/track/dreams-chill-out"><img class="plusinfo2" src="./impeach_files/iconmonstr-info-6-icon.svg"></a>
+						</div>
+						
+						
+						<div class="bouton_download"><p>
+						<span href="/royalty-free-music/electronica#" rel="popuprel2" class="popup">DOWNLOAD</span></p></div>					</div>	
+					<div class="description">
+					Chill Out electro music track with a laid back mood great for vid...					</div>
+					
+					<div class="popupbox" id="popuprel2">
+						<div id="intabdiv2">
+							<div class="box_haut">
+							</div>
+							<div class="close"><p><b>X</b></p></div>
+																					
+							
+							<div class="pop_license"><h1>FREE Creative Commons License</h1>
+							<p>You can use this music for free in your multimedia project (online videos (Youtube, Facebook,...), websites, animations, etc.) as long as you credit Bensound.com (in the description for a video). <br>For example: Music: <a href="https://www.bensound.com/">https://www.bensound.com</a>
+							</p>
+							<div style="display: inline-block;"><p><span class="nothis">No Audiobook<br></span><span class="nothis">No Audio Podcast</span></p></div>
+			<div style="display: inline-block;"><p><span class="nothis">No Song Making<br></span><span class="nothis">No Music Remix</span></p></div>
+														<a href="https://www.bensound.com/bensound-music/bensound-dreams.mp3" class="bouton_pop">Download</a>
+														</div>
+							
+							
+							<a href="https://www.bensound.com/royalty-free-music/track/dreams-chill-out">
+							<div class="pop_pro">
+							<h1>Pro License <span style="color:black;">from 34€</span></h1>
+							<p>If you can't give credits you can buy the Pro License for this track.</p>
+							<ul>
+								<li>Optional Credits</li>
+								<li>High quality Mp3 + Wav</li>
+								<li>License Certificate</li>
+							</ul>
+							<p class="popbuy">PURCHASE</p>
+							</div></a>
+													</div>
+					</div>
+				</div>
+							
+				<div id="fade">
+				</div>
+				
+				
+												<!--end desc-->
+			</div>
+												<div class="bloc_produit">
+							
+				
+				<div class="img_mini"><a href="https://www.bensound.com/royalty-free-music/track/dubstep"><img class="minimage" src="./impeach_files/dubstep.jpg" alt="Dubstep" title="Dubstep">
+                    <img class="plusinfo" src="./impeach_files/iconmonstr-info-6-icon.svg">
+                    </a>
+				</div>
+				<div class="boite_bas">
+					<div class="titre"><p>
+					Dubstep</p><p class="totime">2:04</p>
+					</div>
+					<div>
+						<div class="player">
+							<div class="bouton_play">
+								<div id="mep_2" class="mejs-container svg mejs-audio" style="width: 80px; height: 25px;"><div class="mejs-inner"><div class="mejs-mediaelement"><audio id="player" preload="none" src="/bensound-music/bensound-dubstep.mp3">		
+								</audio></div><div class="mejs-layers"><div class="mejs-poster mejs-layer" style="display: none; width: 80px; height: 25px;"></div></div><div class="mejs-controls"><div class="mejs-button mejs-playpause-button mejs-play"><button type="button" aria-controls="mep_2" title="Play/Pause" aria-label="Play/Pause"></button></div><div class="mejs-time-rail" style="width: 48px;"><span class="mejs-time-total" style="width: 36px;"><span class="mejs-time-buffering" style="display: none;"></span><span class="mejs-time-loaded"></span><span class="mejs-time-current"></span><span class="mejs-time-handle"></span><span class="mejs-time-float"><span class="mejs-time-float-current">00:00</span><span class="mejs-time-float-corner"></span></span></span></div><div class="mejs-time"><span class="mejs-currenttime">00:00</span></div></div><div class="mejs-clear"></div></div></div>
+							</div>
+							<a href="https://www.bensound.com/royalty-free-music/track/dubstep"><img class="plusinfo2" src="./impeach_files/iconmonstr-info-6-icon.svg"></a>
+						</div>
+						
+						
+						<div class="bouton_download"><p>
+						<span href="/royalty-free-music/electronica#" rel="popuprel3" class="popup">DOWNLOAD</span></p></div>					</div>	
+					<div class="description">
+					Modern and energetic royalty free Dubstep music. This Dubstep tra...					</div>
+					
+					<div class="popupbox" id="popuprel3">
+						<div id="intabdiv3">
+							<div class="box_haut">
+							</div>
+							<div class="close"><p><b>X</b></p></div>
+																					
+							
+							<div class="pop_license"><h1>FREE Creative Commons License</h1>
+							<p>You can use this music for free in your multimedia project (online videos (Youtube, Facebook,...), websites, animations, etc.) as long as you credit Bensound.com (in the description for a video). <br>For example: Music: <a href="https://www.bensound.com/">https://www.bensound.com</a>
+							</p>
+							<div style="display: inline-block;"><p><span class="nothis">No Audiobook<br></span><span class="nothis">No Audio Podcast</span></p></div>
+			<div style="display: inline-block;"><p><span class="nothis">No Song Making<br></span><span class="nothis">No Music Remix</span></p></div>
+														<a href="https://www.bensound.com/bensound-music/bensound-dubstep.mp3" class="bouton_pop">Download</a>
+														</div>
+							
+							
+							<a href="https://www.bensound.com/royalty-free-music/track/dubstep">
+							<div class="pop_pro">
+							<h1>Pro License <span style="color:black;">from 34€</span></h1>
+							<p>If you can't give credits you can buy the Pro License for this track.</p>
+							<ul>
+								<li>Optional Credits</li>
+								<li>High quality Mp3 + Wav</li>
+								<li>License Certificate</li>
+							</ul>
+							<p class="popbuy">PURCHASE</p>
+							</div></a>
+													</div>
+					</div>
+				</div>
+							
+				<div id="fade">
+				</div>
+				
+				
+												<!--end desc-->
+			</div>
+												<div class="bloc_produit">
+							
+				
+				<div class="img_mini"><a href="https://www.bensound.com/royalty-free-music/track/all-around-us"><img class="minimage" src="./impeach_files/danphillipson.jpg" alt="All Around Us" title="All Around Us">
+                    <img class="plusinfo" src="./impeach_files/iconmonstr-info-6-icon.svg">
+                    </a>
+				</div>
+				<div class="boite_bas">
+					<div class="titre"><p>
+					All Around Us</p><p class="totime">3:18</p>
+					</div>
+					<div>
+						<div class="player">
+							<div class="bouton_play">
+								<div id="mep_3" class="mejs-container svg mejs-audio" style="width: 80px; height: 25px;"><div class="mejs-inner"><div class="mejs-mediaelement"><audio id="player" preload="none" src="/bensound-music/bensound-allaroundus.mp3">		
+								</audio></div><div class="mejs-layers"><div class="mejs-poster mejs-layer" style="display: none; width: 80px; height: 25px;"></div></div><div class="mejs-controls"><div class="mejs-button mejs-playpause-button mejs-play"><button type="button" aria-controls="mep_3" title="Play/Pause" aria-label="Play/Pause"></button></div><div class="mejs-time-rail" style="width: 48px;"><span class="mejs-time-total" style="width: 36px;"><span class="mejs-time-buffering" style="display: none;"></span><span class="mejs-time-loaded"></span><span class="mejs-time-current"></span><span class="mejs-time-handle"></span><span class="mejs-time-float"><span class="mejs-time-float-current">00:00</span><span class="mejs-time-float-corner"></span></span></span></div><div class="mejs-time"><span class="mejs-currenttime">00:00</span></div></div><div class="mejs-clear"></div></div></div>
+							</div>
+							<a href="https://www.bensound.com/royalty-free-music/track/all-around-us"><img class="plusinfo2" src="./impeach_files/iconmonstr-info-6-icon.svg"></a>
+						</div>
+						
+						
+						<div class="bouton_purchase"><p>
+						<span href="/royalty-free-music/electronica#" rel="popuprel4" class="popup">PURCHASE</span></p></div>					</div>	
+					<div class="description">
+					Ambient atmospheric royalty free music track composed by Dan Phil...					</div>
+					
+					<div class="popupbox" id="popuprel4">
+						<div id="intabdiv4">
+							<div class="box_haut">
+							</div>
+							<div class="close"><p><b>X</b></p></div>
+														
+							<div class="pop_license"><h2>All Around Us</h2><h3>FREE CC License Not Available</h3><p>Buy the <a href="https://www.bensound.com/all-around-us">Pro License</a> or <a href="https://www.bensound.com/subscription">Subscribe</a> to download and use this track.</p>
+							</div>
+							
+							
+							
+							<div class="pop_pro">
+							<h1>Pro License</h1>
+							<p>The purchased download will not contain the "Bensound.com" protection message.<br></p>
+							
+							<ul>
+								<li>Optional Credits</li>
+								<li>Mp3 + Wav</li>
+								<li>License Certificate</li>
+							</ul>
+							<a href="https://www.bensound.com/royalty-free-music/track/all-around-us"><p class="popbuy">PURCHASE</p></a>
+							</div>
+							
+													</div>
+					</div>
+				</div>
+							
+				<div id="fade">
+				</div>
+				
+				
+												<!--end desc-->
+			</div>
+												<div class="bloc_produit1">
+							
+				
+				<div class="img_mini"><a href="https://www.bensound.com/royalty-free-music/track/endless-motion-edm-electro"><img class="minimage" src="./impeach_files/endlessmotion.jpg" alt="Endless Motion" title="Endless Motion">
+                    <img class="plusinfo" src="./impeach_files/iconmonstr-info-6-icon.svg">
+                    </a>
+				</div>
+				<div class="boite_bas">
+					<div class="titre"><p>
+					Endless Motion</p><p class="totime">3:00</p>
+					</div>
+					<div>
+						<div class="player">
+							<div class="bouton_play">
+								<div id="mep_4" class="mejs-container svg mejs-audio" style="width: 80px; height: 25px;"><div class="mejs-inner"><div class="mejs-mediaelement"><audio id="player" preload="none" src="/bensound-music/bensound-endlessmotion.mp3">		
+								</audio></div><div class="mejs-layers"><div class="mejs-poster mejs-layer" style="display: none; width: 80px; height: 25px;"></div></div><div class="mejs-controls"><div class="mejs-button mejs-playpause-button mejs-play"><button type="button" aria-controls="mep_4" title="Play/Pause" aria-label="Play/Pause"></button></div><div class="mejs-time-rail" style="width: 48px;"><span class="mejs-time-total" style="width: 36px;"><span class="mejs-time-buffering" style="display: none;"></span><span class="mejs-time-loaded"></span><span class="mejs-time-current"></span><span class="mejs-time-handle"></span><span class="mejs-time-float"><span class="mejs-time-float-current">00:00</span><span class="mejs-time-float-corner"></span></span></span></div><div class="mejs-time"><span class="mejs-currenttime">00:00</span></div></div><div class="mejs-clear"></div></div></div>
+							</div>
+							<a href="https://www.bensound.com/royalty-free-music/track/endless-motion-edm-electro"><img class="plusinfo2" src="./impeach_files/iconmonstr-info-6-icon.svg"></a>
+						</div>
+						
+						
+						<div class="bouton_download"><p>
+						<span href="/royalty-free-music/electronica#" rel="popuprel5" class="popup">DOWNLOAD</span></p></div>					</div>	
+					<div class="description">
+					An energising and uplifting Electro Pop&nbsp;track perfect to set...					</div>
+					
+					<div class="popupbox" id="popuprel5">
+						<div id="intabdiv5">
+							<div class="box_haut">
+							</div>
+							<div class="close"><p><b>X</b></p></div>
+																					
+							
+							<div class="pop_license"><h1>FREE Creative Commons License</h1>
+							<p>You can use this music for free in your multimedia project (online videos (Youtube, Facebook,...), websites, animations, etc.) as long as you credit Bensound.com (in the description for a video). <br>For example: Music: <a href="https://www.bensound.com/">https://www.bensound.com</a>
+							</p>
+							<div style="display: inline-block;"><p><span class="nothis">No Audiobook<br></span><span class="nothis">No Audio Podcast</span></p></div>
+			<div style="display: inline-block;"><p><span class="nothis">No Song Making<br></span><span class="nothis">No Music Remix</span></p></div>
+														<a href="https://www.bensound.com/bensound-music/bensound-endlessmotion.mp3" class="bouton_pop">Download</a>
+														</div>
+							
+							
+							<a href="https://www.bensound.com/royalty-free-music/track/endless-motion-edm-electro">
+							<div class="pop_pro">
+							<h1>Pro License <span style="color:black;">from 34€</span></h1>
+							<p>If you can't give credits you can buy the Pro License for this track.</p>
+							<ul>
+								<li>Optional Credits</li>
+								<li>High quality Mp3 + Wav</li>
+								<li>License Certificate</li>
+							</ul>
+							<p class="popbuy">PURCHASE</p>
+							</div></a>
+													</div>
+					</div>
+				</div>
+							
+				<div id="fade">
+				</div>
+				
+				
+												<!--end desc-->
+			</div>
+												<div class="bloc_produit">
+							
+				
+				<div class="img_mini"><a href="https://www.bensound.com/royalty-free-music/track/shiny-morning-tropical-pop-house"><img class="minimage" src="./impeach_files/edrecords.jpg" alt="Shiny Morning" title="Shiny Morning">
+                    <img class="plusinfo" src="./impeach_files/iconmonstr-info-6-icon.svg">
+                    </a>
+				</div>
+				<div class="boite_bas">
+					<div class="titre"><p>
+					Shiny Morning</p><p class="totime">1:31</p>
+					</div>
+					<div>
+						<div class="player">
+							<div class="bouton_play">
+								<div id="mep_5" class="mejs-container svg mejs-audio" style="width: 80px; height: 25px;"><div class="mejs-inner"><div class="mejs-mediaelement"><audio id="player" preload="none" src="/bensound-music/bensound-shinymorning.mp3">		
+								</audio></div><div class="mejs-layers"><div class="mejs-poster mejs-layer" style="display: none; width: 80px; height: 25px;"></div></div><div class="mejs-controls"><div class="mejs-button mejs-playpause-button mejs-play"><button type="button" aria-controls="mep_5" title="Play/Pause" aria-label="Play/Pause"></button></div><div class="mejs-time-rail" style="width: 48px;"><span class="mejs-time-total" style="width: 36px;"><span class="mejs-time-buffering" style="display: none;"></span><span class="mejs-time-loaded"></span><span class="mejs-time-current"></span><span class="mejs-time-handle"></span><span class="mejs-time-float"><span class="mejs-time-float-current">00:00</span><span class="mejs-time-float-corner"></span></span></span></div><div class="mejs-time"><span class="mejs-currenttime">00:00</span></div></div><div class="mejs-clear"></div></div></div>
+							</div>
+							<a href="https://www.bensound.com/royalty-free-music/track/shiny-morning-tropical-pop-house"><img class="plusinfo2" src="./impeach_files/iconmonstr-info-6-icon.svg"></a>
+						</div>
+						
+						
+						<div class="bouton_purchase"><p>
+						<span href="/royalty-free-music/electronica#" rel="popuprel6" class="popup">PURCHASE</span></p></div>					</div>	
+					<div class="description">
+					Tropical&nbsp;Royalty Free Music by EdRecords&nbsp;featuring synt...					</div>
+					
+					<div class="popupbox" id="popuprel6">
+						<div id="intabdiv6">
+							<div class="box_haut">
+							</div>
+							<div class="close"><p><b>X</b></p></div>
+														
+							<div class="pop_license"><h2>Shiny Morning</h2><h3>FREE CC License Not Available</h3><p>Buy the <a href="https://www.bensound.com/shiny-morning-tropical-pop-house">Pro License</a> or <a href="https://www.bensound.com/subscription">Subscribe</a> to download and use this track.</p>
+							</div>
+							
+							
+							
+							<div class="pop_pro">
+							<h1>Pro License</h1>
+							<p>The purchased download will not contain the "Bensound.com" protection message.<br></p>
+							
+							<ul>
+								<li>Optional Credits</li>
+								<li>Mp3 + Wav</li>
+								<li>License Certificate</li>
+							</ul>
+							<a href="https://www.bensound.com/royalty-free-music/track/shiny-morning-tropical-pop-house"><p class="popbuy">PURCHASE</p></a>
+							</div>
+							
+													</div>
+					</div>
+				</div>
+							
+				<div id="fade">
+				</div>
+				
+				
+												<!--end desc-->
+			</div>
+												<div class="bloc_produit">
+							
+				
+				<div class="img_mini"><a href="https://www.bensound.com/royalty-free-music/track/moose"><img class="minimage" src="./impeach_files/moose.jpg" alt="Moose" title="Moose">
+                    <img class="plusinfo" src="./impeach_files/iconmonstr-info-6-icon.svg">
+                    </a>
+				</div>
+				<div class="boite_bas">
+					<div class="titre"><p>
+					Moose</p><p class="totime">2:40</p>
+					</div>
+					<div>
+						<div class="player">
+							<div class="bouton_play">
+								<div id="mep_6" class="mejs-container svg mejs-audio" style="width: 80px; height: 25px;"><div class="mejs-inner"><div class="mejs-mediaelement"><audio id="player" preload="none" src="/bensound-music/bensound-moose.mp3">		
+								</audio></div><div class="mejs-layers"><div class="mejs-poster mejs-layer" style="display: none; width: 80px; height: 25px;"></div></div><div class="mejs-controls"><div class="mejs-button mejs-playpause-button mejs-play"><button type="button" aria-controls="mep_6" title="Play/Pause" aria-label="Play/Pause"></button></div><div class="mejs-time-rail" style="width: 48px;"><span class="mejs-time-total" style="width: 36px;"><span class="mejs-time-buffering" style="display: none;"></span><span class="mejs-time-loaded"></span><span class="mejs-time-current"></span><span class="mejs-time-handle"></span><span class="mejs-time-float"><span class="mejs-time-float-current">00:00</span><span class="mejs-time-float-corner"></span></span></span></div><div class="mejs-time"><span class="mejs-currenttime">00:00</span></div></div><div class="mejs-clear"></div></div></div>
+							</div>
+							<a href="https://www.bensound.com/royalty-free-music/track/moose"><img class="plusinfo2" src="./impeach_files/iconmonstr-info-6-icon.svg"></a>
+						</div>
+						
+						
+						<div class="bouton_download"><p>
+						<span href="/royalty-free-music/electronica#" rel="popuprel7" class="popup">DOWNLOAD</span></p></div>					</div>	
+					<div class="description">
+					French electronica royalty free music featuring synths riffs with...					</div>
+					
+					<div class="popupbox" id="popuprel7">
+						<div id="intabdiv7">
+							<div class="box_haut">
+							</div>
+							<div class="close"><p><b>X</b></p></div>
+																					
+							
+							<div class="pop_license"><h1>FREE Creative Commons License</h1>
+							<p>You can use this music for free in your multimedia project (online videos (Youtube, Facebook,...), websites, animations, etc.) as long as you credit Bensound.com (in the description for a video). <br>For example: Music: <a href="https://www.bensound.com/">https://www.bensound.com</a>
+							</p>
+							<div style="display: inline-block;"><p><span class="nothis">No Audiobook<br></span><span class="nothis">No Audio Podcast</span></p></div>
+			<div style="display: inline-block;"><p><span class="nothis">No Song Making<br></span><span class="nothis">No Music Remix</span></p></div>
+														<a href="https://www.bensound.com/bensound-music/bensound-moose.mp3" class="bouton_pop">Download</a>
+														</div>
+							
+							
+							<a href="https://www.bensound.com/royalty-free-music/track/moose">
+							<div class="pop_pro">
+							<h1>Pro License <span style="color:black;">from 34€</span></h1>
+							<p>If you can't give credits you can buy the Pro License for this track.</p>
+							<ul>
+								<li>Optional Credits</li>
+								<li>High quality Mp3 + Wav</li>
+								<li>License Certificate</li>
+							</ul>
+							<p class="popbuy">PURCHASE</p>
+							</div></a>
+													</div>
+					</div>
+				</div>
+							
+				<div id="fade">
+				</div>
+				
+				
+												<!--end desc-->
+			</div>
+												<div class="bloc_produit">
+							
+				
+				<div class="img_mini"><a href="https://www.bensound.com/royalty-free-music/track/erf"><img class="minimage" src="./impeach_files/erf.jpg" alt="E.R.F." title="E.R.F.">
+                    <img class="plusinfo" src="./impeach_files/iconmonstr-info-6-icon.svg">
+                    </a>
+				</div>
+				<div class="boite_bas">
+					<div class="titre"><p>
+					E.R.F.</p><p class="totime">4:41</p>
+					</div>
+					<div>
+						<div class="player">
+							<div class="bouton_play">
+								<div id="mep_7" class="mejs-container svg mejs-audio" style="width: 80px; height: 25px;"><div class="mejs-inner"><div class="mejs-mediaelement"><audio id="player" preload="none" src="/bensound-music/bensound-erf.mp3">		
+								</audio></div><div class="mejs-layers"><div class="mejs-poster mejs-layer" style="display: none; width: 80px; height: 25px;"></div></div><div class="mejs-controls"><div class="mejs-button mejs-playpause-button mejs-play"><button type="button" aria-controls="mep_7" title="Play/Pause" aria-label="Play/Pause"></button></div><div class="mejs-time-rail" style="width: 48px;"><span class="mejs-time-total" style="width: 36px;"><span class="mejs-time-buffering" style="display: none;"></span><span class="mejs-time-loaded"></span><span class="mejs-time-current"></span><span class="mejs-time-handle"></span><span class="mejs-time-float"><span class="mejs-time-float-current">00:00</span><span class="mejs-time-float-corner"></span></span></span></div><div class="mejs-time"><span class="mejs-currenttime">00:00</span></div></div><div class="mejs-clear"></div></div></div>
+							</div>
+							<a href="https://www.bensound.com/royalty-free-music/track/erf"><img class="plusinfo2" src="./impeach_files/iconmonstr-info-6-icon.svg"></a>
+						</div>
+						
+						
+						<div class="bouton_download"><p>
+						<span href="/royalty-free-music/electronica#" rel="popuprel8" class="popup">DOWNLOAD</span></p></div>					</div>	
+					<div class="description">
+					Modern pop /&nbsp;electronica royalty free music track featuring ...					</div>
+					
+					<div class="popupbox" id="popuprel8">
+						<div id="intabdiv8">
+							<div class="box_haut">
+							</div>
+							<div class="close"><p><b>X</b></p></div>
+																					
+							
+							<div class="pop_license"><h1>FREE Creative Commons License</h1>
+							<p>You can use this music for free in your multimedia project (online videos (Youtube, Facebook,...), websites, animations, etc.) as long as you credit Bensound.com (in the description for a video). <br>For example: Music: <a href="https://www.bensound.com/">https://www.bensound.com</a>
+							</p>
+							<div style="display: inline-block;"><p><span class="nothis">No Audiobook<br></span><span class="nothis">No Audio Podcast</span></p></div>
+			<div style="display: inline-block;"><p><span class="nothis">No Song Making<br></span><span class="nothis">No Music Remix</span></p></div>
+														<a href="https://www.bensound.com/bensound-music/bensound-erf.mp3" class="bouton_pop">Download</a>
+														</div>
+							
+							
+							<a href="https://www.bensound.com/royalty-free-music/track/erf">
+							<div class="pop_pro">
+							<h1>Pro License <span style="color:black;">from 34€</span></h1>
+							<p>If you can't give credits you can buy the Pro License for this track.</p>
+							<ul>
+								<li>Optional Credits</li>
+								<li>High quality Mp3 + Wav</li>
+								<li>License Certificate</li>
+							</ul>
+							<p class="popbuy">PURCHASE</p>
+							</div></a>
+													</div>
+					</div>
+				</div>
+							
+				<div id="fade">
+				</div>
+				
+				
+												<!--end desc-->
+			</div>
+												<div class="bloc_produit1">
+							
+				
+				<div class="img_mini"><a href="https://www.bensound.com/royalty-free-music/track/wake-me-up"><img class="minimage" src="./impeach_files/antonvlasov.jpg" alt="Wake Me Up" title="Wake Me Up">
+                    <img class="plusinfo" src="./impeach_files/iconmonstr-info-6-icon.svg">
+                    </a>
+				</div>
+				<div class="boite_bas">
+					<div class="titre"><p>
+					Wake Me Up</p><p class="totime">2:50</p>
+					</div>
+					<div>
+						<div class="player">
+							<div class="bouton_play">
+								<div id="mep_8" class="mejs-container svg mejs-audio" style="width: 80px; height: 25px;"><div class="mejs-inner"><div class="mejs-mediaelement"><audio id="player" preload="none" src="/bensound-music/bensound-wakemeup.mp3">		
+								</audio></div><div class="mejs-layers"><div class="mejs-poster mejs-layer" style="display: none; width: 80px; height: 25px;"></div></div><div class="mejs-controls"><div class="mejs-button mejs-playpause-button mejs-play"><button type="button" aria-controls="mep_8" title="Play/Pause" aria-label="Play/Pause"></button></div><div class="mejs-time-rail" style="width: 48px;"><span class="mejs-time-total" style="width: 36px;"><span class="mejs-time-buffering" style="display: none;"></span><span class="mejs-time-loaded"></span><span class="mejs-time-current"></span><span class="mejs-time-handle"></span><span class="mejs-time-float"><span class="mejs-time-float-current">00:00</span><span class="mejs-time-float-corner"></span></span></span></div><div class="mejs-time"><span class="mejs-currenttime">00:00</span></div></div><div class="mejs-clear"></div></div></div>
+							</div>
+							<a href="https://www.bensound.com/royalty-free-music/track/wake-me-up"><img class="plusinfo2" src="./impeach_files/iconmonstr-info-6-icon.svg"></a>
+						</div>
+						
+						
+						<div class="bouton_purchase"><p>
+						<span href="/royalty-free-music/electronica#" rel="popuprel9" class="popup">PURCHASE</span></p></div>					</div>	
+					<div class="description">
+					Royalty Free Future Pop music track by Anton Vlasov featuring syn...					</div>
+					
+					<div class="popupbox" id="popuprel9">
+						<div id="intabdiv9">
+							<div class="box_haut">
+							</div>
+							<div class="close"><p><b>X</b></p></div>
+														
+							<div class="pop_license"><h2>Wake Me Up</h2><h3>FREE CC License Not Available</h3><p>Buy the <a href="https://www.bensound.com/wake-me-up">Pro License</a> or <a href="https://www.bensound.com/subscription">Subscribe</a> to download and use this track.</p>
+							</div>
+							
+							
+							
+							<div class="pop_pro">
+							<h1>Pro License</h1>
+							<p>The purchased download will not contain the "Bensound.com" protection message.<br></p>
+							
+							<ul>
+								<li>Optional Credits</li>
+								<li>Mp3 + Wav</li>
+								<li>License Certificate</li>
+							</ul>
+							<a href="https://www.bensound.com/royalty-free-music/track/wake-me-up"><p class="popbuy">PURCHASE</p></a>
+							</div>
+							
+													</div>
+					</div>
+				</div>
+							
+				<div id="fade">
+				</div>
+				
+				
+												<!--end desc-->
+			</div>
+												<div class="bloc_produit">
+							
+				
+				<div class="img_mini"><a href="https://www.bensound.com/royalty-free-music/track/sci-fi"><img class="minimage" src="./impeach_files/scifi.jpg" alt="Sci Fi" title="Sci Fi">
+                    <img class="plusinfo" src="./impeach_files/iconmonstr-info-6-icon.svg">
+                    </a>
+				</div>
+				<div class="boite_bas">
+					<div class="titre"><p>
+					Sci Fi</p><p class="totime">4:44</p>
+					</div>
+					<div>
+						<div class="player">
+							<div class="bouton_play">
+								<div id="mep_9" class="mejs-container svg mejs-audio" style="width: 80px; height: 25px;"><div class="mejs-inner"><div class="mejs-mediaelement"><audio id="player" preload="none" src="/bensound-music/bensound-scifi.mp3">		
+								</audio></div><div class="mejs-layers"><div class="mejs-poster mejs-layer" style="display: none; width: 80px; height: 25px;"></div></div><div class="mejs-controls"><div class="mejs-button mejs-playpause-button mejs-pause"><button type="button" aria-controls="mep_9" title="Play/Pause" aria-label="Play/Pause"></button></div><div class="mejs-time-rail" style="width: 48px;"><span class="mejs-time-total" style="width: 36px;"><span class="mejs-time-buffering" style="display: none;"></span><span class="mejs-time-loaded" style="width: 4.59894px;"></span><span class="mejs-time-current" style="width: 4px;"></span><span class="mejs-time-handle" style="left: -2px;"></span><span class="mejs-time-float" style="display: none; left: 30.9px;"><span class="mejs-time-float-current">02:49</span><span class="mejs-time-float-corner"></span></span></span></div><div class="mejs-time"><span class="mejs-currenttime">00:26</span></div></div><div class="mejs-clear"></div></div></div>
+							</div>
+							<a href="https://www.bensound.com/royalty-free-music/track/sci-fi"><img class="plusinfo2" src="./impeach_files/iconmonstr-info-6-icon.svg"></a>
+						</div>
+						
+						
+						<div class="bouton_download"><p>
+						<span href="/royalty-free-music/electronica#" rel="popuprel10" class="popup">DOWNLOAD</span></p></div>					</div>	
+					<div class="description">
+					This electronica royalty free music track should be great for a p...					</div>
+					
+					<div class="popupbox" id="popuprel10">
+						<div id="intabdiv10">
+							<div class="box_haut">
+							</div>
+							<div class="close"><p><b>X</b></p></div>
+																					
+							
+							<div class="pop_license"><h1>FREE Creative Commons License</h1>
+							<p>You can use this music for free in your multimedia project (online videos (Youtube, Facebook,...), websites, animations, etc.) as long as you credit Bensound.com (in the description for a video). <br>For example: Music: <a href="https://www.bensound.com/">https://www.bensound.com</a>
+							</p>
+							<div style="display: inline-block;"><p><span class="nothis">No Audiobook<br></span><span class="nothis">No Audio Podcast</span></p></div>
+			<div style="display: inline-block;"><p><span class="nothis">No Song Making<br></span><span class="nothis">No Music Remix</span></p></div>
+														<a href="https://www.bensound.com/bensound-music/bensound-scifi.mp3" class="bouton_pop">Download</a>
+														</div>
+							
+							
+							<a href="https://www.bensound.com/royalty-free-music/track/sci-fi">
+							<div class="pop_pro">
+							<h1>Pro License <span style="color:black;">from 34€</span></h1>
+							<p>If you can't give credits you can buy the Pro License for this track.</p>
+							<ul>
+								<li>Optional Credits</li>
+								<li>High quality Mp3 + Wav</li>
+								<li>License Certificate</li>
+							</ul>
+							<p class="popbuy">PURCHASE</p>
+							</div></a>
+													</div>
+					</div>
+				</div>
+							
+				<div id="fade">
+				</div>
+				
+				
+												<!--end desc-->
+			</div>
+												<div class="bloc_produit">
+							
+				
+				<div class="img_mini"><a href="https://www.bensound.com/royalty-free-music/track/pop-dance"><img class="minimage" src="./impeach_files/popdance.jpg" alt="Pop Dance" title="Pop Dance">
+                    <img class="plusinfo" src="./impeach_files/iconmonstr-info-6-icon.svg">
+                    </a>
+				</div>
+				<div class="boite_bas">
+					<div class="titre"><p>
+					Pop Dance</p><p class="totime">2:41</p>
+					</div>
+					<div>
+						<div class="player">
+							<div class="bouton_play">
+								<div id="mep_10" class="mejs-container svg mejs-audio" style="width: 80px; height: 25px;"><div class="mejs-inner"><div class="mejs-mediaelement"><audio id="player" preload="none" src="/bensound-music/bensound-popdance.mp3">		
+								</audio></div><div class="mejs-layers"><div class="mejs-poster mejs-layer" style="display: none; width: 80px; height: 25px;"></div></div><div class="mejs-controls"><div class="mejs-button mejs-playpause-button mejs-play"><button type="button" aria-controls="mep_10" title="Play/Pause" aria-label="Play/Pause"></button></div><div class="mejs-time-rail" style="width: 48px;"><span class="mejs-time-total" style="width: 36px;"><span class="mejs-time-buffering" style="display: none;"></span><span class="mejs-time-loaded"></span><span class="mejs-time-current"></span><span class="mejs-time-handle"></span><span class="mejs-time-float"><span class="mejs-time-float-current">00:00</span><span class="mejs-time-float-corner"></span></span></span></div><div class="mejs-time"><span class="mejs-currenttime">00:00</span></div></div><div class="mejs-clear"></div></div></div>
+							</div>
+							<a href="https://www.bensound.com/royalty-free-music/track/pop-dance"><img class="plusinfo2" src="./impeach_files/iconmonstr-info-6-icon.svg"></a>
+						</div>
+						
+						
+						<div class="bouton_download"><p>
+						<span href="/royalty-free-music/electronica#" rel="popuprel11" class="popup">DOWNLOAD</span></p></div>					</div>	
+					<div class="description">
+					Positive and happy electronica royalty free music track with a fr...					</div>
+					
+					<div class="popupbox" id="popuprel11">
+						<div id="intabdiv11">
+							<div class="box_haut">
+							</div>
+							<div class="close"><p><b>X</b></p></div>
+																					
+							
+							<div class="pop_license"><h1>FREE Creative Commons License</h1>
+							<p>You can use this music for free in your multimedia project (online videos (Youtube, Facebook,...), websites, animations, etc.) as long as you credit Bensound.com (in the description for a video). <br>For example: Music: <a href="https://www.bensound.com/">https://www.bensound.com</a>
+							</p>
+							<div style="display: inline-block;"><p><span class="nothis">No Audiobook<br></span><span class="nothis">No Audio Podcast</span></p></div>
+			<div style="display: inline-block;"><p><span class="nothis">No Song Making<br></span><span class="nothis">No Music Remix</span></p></div>
+														<a href="https://www.bensound.com/bensound-music/bensound-popdance.mp3" class="bouton_pop">Download</a>
+														</div>
+							
+							
+							<a href="https://www.bensound.com/royalty-free-music/track/pop-dance">
+							<div class="pop_pro">
+							<h1>Pro License <span style="color:black;">from 34€</span></h1>
+							<p>If you can't give credits you can buy the Pro License for this track.</p>
+							<ul>
+								<li>Optional Credits</li>
+								<li>High quality Mp3 + Wav</li>
+								<li>License Certificate</li>
+							</ul>
+							<p class="popbuy">PURCHASE</p>
+							</div></a>
+													</div>
+					</div>
+				</div>
+							
+				<div id="fade">
+				</div>
+				
+				
+												<!--end desc-->
+			</div>
+												<div class="bloc_produit">
+							
+				
+				<div class="img_mini"><a href="https://www.bensound.com/royalty-free-music/track/dance"><img class="minimage" src="./impeach_files/dance.jpg" alt="Dance" title="Dance">
+                    <img class="plusinfo" src="./impeach_files/iconmonstr-info-6-icon.svg">
+                    </a>
+				</div>
+				<div class="boite_bas">
+					<div class="titre"><p>
+					Dance</p><p class="totime">2:57</p>
+					</div>
+					<div>
+						<div class="player">
+							<div class="bouton_play">
+								<div id="mep_11" class="mejs-container svg mejs-audio" style="width: 80px; height: 25px;"><div class="mejs-inner"><div class="mejs-mediaelement"><audio id="player" preload="none" src="/bensound-music/bensound-dance.mp3">		
+								</audio></div><div class="mejs-layers"><div class="mejs-poster mejs-layer" style="display: none; width: 80px; height: 25px;"></div></div><div class="mejs-controls"><div class="mejs-button mejs-playpause-button mejs-play"><button type="button" aria-controls="mep_11" title="Play/Pause" aria-label="Play/Pause"></button></div><div class="mejs-time-rail" style="width: 48px;"><span class="mejs-time-total" style="width: 36px;"><span class="mejs-time-buffering" style="display: none;"></span><span class="mejs-time-loaded" style="width: 40px;"></span><span class="mejs-time-current" style="width: 2px;"></span><span class="mejs-time-handle" style="left: -3px;"></span><span class="mejs-time-float" style="display: none; left: 0px;"><span class="mejs-time-float-current">00:00</span><span class="mejs-time-float-corner"></span></span></span></div><div class="mejs-time"><span class="mejs-currenttime">00:09</span></div></div><div class="mejs-clear"></div></div></div>
+							</div>
+							<a href="https://www.bensound.com/royalty-free-music/track/dance"><img class="plusinfo2" src="./impeach_files/iconmonstr-info-6-icon.svg"></a>
+						</div>
+						
+						
+						<div class="bouton_download"><p>
+						<span href="/royalty-free-music/electronica#" rel="popuprel12" class="popup">DOWNLOAD</span></p></div>					</div>	
+					<div class="description">
+					Dance royalty free music track featuring electric guitars.
+Image...					</div>
+					
+					<div class="popupbox" id="popuprel12" style="display: none; margin-top: -103px; margin-left: -317px;">
+						<div id="intabdiv12">
+							<div class="box_haut">
+							</div>
+							<div class="close"><p><b>X</b></p></div>
+																					
+							
+							<div class="pop_license"><h1>FREE Creative Commons License</h1>
+							<p>You can use this music for free in your multimedia project (online videos (Youtube, Facebook,...), websites, animations, etc.) as long as you credit Bensound.com (in the description for a video). <br>For example: Music: <a href="https://www.bensound.com/">https://www.bensound.com</a>
+							</p>
+							<div style="display: inline-block;"><p><span class="nothis">No Audiobook<br></span><span class="nothis">No Audio Podcast</span></p></div>
+			<div style="display: inline-block;"><p><span class="nothis">No Song Making<br></span><span class="nothis">No Music Remix</span></p></div>
+														<a href="https://www.bensound.com/bensound-music/bensound-dance.mp3" class="bouton_pop">Download</a>
+														</div>
+							
+							
+							<a href="https://www.bensound.com/royalty-free-music/track/dance">
+							<div class="pop_pro">
+							<h1>Pro License <span style="color:black;">from 34€</span></h1>
+							<p>If you can't give credits you can buy the Pro License for this track.</p>
+							<ul>
+								<li>Optional Credits</li>
+								<li>High quality Mp3 + Wav</li>
+								<li>License Certificate</li>
+							</ul>
+							<p class="popbuy">PURCHASE</p>
+							</div></a>
+													</div>
+					</div>
+				</div>
+							
+				<div id="fade">
+				</div>
+				
+				
+												<!--end desc-->
+			</div>
+						
+
+		</div><!--end product_show -->
+		<div class="pagenavi2">
+		<div class="links">  <span class="current">&lt;</span>  <b>1</b>  <a class="page" href="https://www.bensound.com/royalty-free-music/electronica/2">2</a>  <a class="page" href="https://www.bensound.com/royalty-free-music/electronica/3">3</a>  <a class="page" href="https://www.bensound.com/royalty-free-music/electronica/4">4</a>  <a class="page" href="https://www.bensound.com/royalty-free-music/electronica/5">5</a>  <a class="current2" href="https://www.bensound.com/royalty-free-music/electronica/2"> <strong>NEXT &gt;</strong></a>  </div>		</div><!--end pagination-->
+
+		</section><!--end products_outer-->
+</div><!--end container-->
+<!-- end the main content area -->
+
+	<script>
+/* <![CDATA[ */
+	jQuery(document).ready(function($) {
+		$('audio').mediaelementplayer({
+			audioWidth: 80,
+			audioHeight: 25,
+			features: ['playpause','progress','current','tracks'],
+			videoVolume: 'horizontal'
+		});
+	});
+/* ]]> */
+</script>
+
+
+
+
+</div>
+</div>
+<!-- start footer -->
+	<footer>
+		<div class="container">
+		
+			<div id="footer">
+				
+				<div>
+					<p style="margin-top: -10px;">
+					<a href="https://www.bensound.com/licensing">LICENSE</a><a href="https://www.bensound.com/music-subscription-youtube-videos">SUBSCRIPTION</a><a href="https://www.bensound.com/legal">LEGAL NOTICE</a><a href="https://www.bensound.com/privacy-policy">PRIVACY POLICY</a><a href="https://www.bensound.com/about">ABOUT</a><a href="https://www.bensound.com/contact-me">CONTACT</a><a href="https://www.bensound.com/help">FAQ</a>
+
+					<a class="social-link" title="Twitter" target="_blank" href="https://twitter.com/bensound"><svg class="social-icon" width="25" fill="#fff" height="19.969" viewBox="0 0 24 19.969"><path d="M24 2.377a9.668 9.668 0 0 1-2.828.793A5.029 5.029 0 0 0 23.337.383a9.727 9.727 0 0 1-3.127 1.222 4.864 4.864 0 0 0-3.594-1.59 5.015 5.015 0 0 0-4.8 6.184A13.877 13.877 0 0 1 1.668.936a5.115 5.115 0 0 0 1.523 6.726 4.83 4.83 0 0 1-2.229-.63 5.018 5.018 0 0 0 3.949 5 4.824 4.824 0 0 1-2.224.085 4.942 4.942 0 0 0 4.6 3.5 9.739 9.739 0 0 1-7.29 2.087 13.706 13.706 0 0 0 7.548 2.263c9.142 0 14.307-7.9 14-14.983A10.153 10.153 0 0 0 24 2.377z"></path></svg></a>
+
+					<a class="social-link" title="Facebook" target="_blank" href="https://www.facebook.com/bensoundmusic"><svg id="social-f" class="social-icon" fill="#fff" width="25" height="21" viewBox="0 0 10.031 21"><path d="M10.016.033H6.9s-4.88-.5-4.88 4.5V6.6H.03L0 10.536h2.017v10.472h4.627V10.536h2.672l.65-3.935H6.644V5a1.142 1.142 0 0 1 1.36-1.352h1.982z"></path></svg></a>
+
+					<a class="social-link" title="YouTube" target="_blank" href="https://www.youtube.com/c/bensoundmusic"><svg id="youtube" class="social-icon" fill="#fff" viewBox="10 0 40 45" style="
+    background: #ff0000;
+    height: 23px;
+    width: 26px;
+    padding: 4px;
+">
+<path xmlns="http://www.w3.org/2000/svg" style="/* position: relative; *//* fill:#FFFFFF; *//* top: 20px; *//* left: -76px; *//* height: 120px; */" d="M21,32.53V11.47c0-1.091,1.187-1.769,2.127-1.214l17.82,10.53c0.923,0.546,0.923,1.882,0,2.427   l-17.82,10.53C22.187,34.299,21,33.621,21,32.53z"></path></svg></a>
+					</p>
+					
+				</div>
+				<div>
+					<p><a href="https://www.bensound.com/royalty-free-music">Bensound's Royalty Free Music</a> Copyright © 2012-2020					</p>
+				</div>
+				<div>
+					<img class="logo-p" src="./impeach_files/paypal-logo2.png">
+				</div>
+			</div>
+		
+				
+		</div><!--end container-->
+	</footer>
+		
+		</div>	
+
+<div id="fade"></div></body></html>
